@@ -3,7 +3,7 @@ import org.apache.spark.sql.{SQLContext, SparkSession}
 import org.apache.spark.sql.expressions.Window
 import org.apache.spark.sql.functions._
 
-object DF {
+object WindowFunctions {
 
   def main(args: Array[String]) {
 
